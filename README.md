@@ -1,3 +1,5 @@
+Column-based nosql database Hbase (Hadoop) practice examples
+
 This project is a test to covert a tabular-like gtf/gff file into noSQL format like the column-family based Hbase(for Hadoop).
 
 ***************** requirements *************************
