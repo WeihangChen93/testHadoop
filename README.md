@@ -1,10 +1,14 @@
 Column-based nosql database Hbase (Hadoop) practice examples
 
+
+
 This project is a test to covert a tabular-like gtf/gff file into noSQL format like the column-family based Hbase(for Hadoop).
 
 ***************** requirements *************************
 Hadoop 3.2.0+
+
 Hbase 2.4.0+
+
 Java 1.8.0
 
 ***************** readFromFile *************************
